@@ -61,7 +61,7 @@ class VinithKumar:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR-NETLIFY-URL.netlify.app)
+[![Portfolio](https://vinithkportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinith-kumar-g-p/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinithvkk050@gmail.com)
 
@@ -166,6 +166,6 @@ class VinithKumar:
 
 **Python Backend Engineer · Dublin, Ireland · Open to Roles**
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR-NETLIFY-URL.netlify.app)
+[![Portfolio](https://vinithkportfolio.netlify.app/)
 
 </div>
